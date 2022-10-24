@@ -1,2 +1,2 @@
-# python
-Python code for YouTube videos
+# Python
+This repository here includes all the Python code for YouTube videos on Python by Dr. Z. You can visit the videos here: https://www.youtube.com/playlist?list=PLD_ylH-D2piC9jazUW81Iuu7m1Z2mAvfs. Please note that the files have the same numerial prefixes as the videos but you may have to remove the numerical prefixes to work with them. Each video has at least two files, an .ipynb file (Jupyter notebook) and a .py files (Python file). If you have downloaded Anaconda and are following the videos using Jupyter, use the .ipynb files.
